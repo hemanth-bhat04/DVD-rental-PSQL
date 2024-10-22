@@ -1,0 +1,1 @@
+This is a tutorial on basics till advanced of psql, the database here is DVD Rental, you can restore the tar file in your pg-admin using the restore database option, and play around with the queries. thank you!!
